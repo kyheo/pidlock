@@ -1,1 +1,10 @@
 *.pyc
+.installed.cfg
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+pidlock.egg-info/
+virtual/
+
