@@ -8,5 +8,5 @@ setup(
     include_package_data = True,
     author = "Martin Marrese",
     author_email = "marrese@gmail.com",
-    description = "Library that allow application launch lock based on pidlock",
+    description = "Library that allow application launch lock based on pid",
 )

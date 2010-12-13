@@ -1,6 +1,6 @@
 Description
 ===========
-Library that allow application launch lock based on pidlock.
+Library that allow application launch lock based on pid.
 
 Development Environment
 -----------------------
