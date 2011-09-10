@@ -1,8 +1,5 @@
 import os
 
-class PermissionDeniedException(Exception):
-    pass
-
 class AlreadyAcquireException(Exception):
     pass
 
