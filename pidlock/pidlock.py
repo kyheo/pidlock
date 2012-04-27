@@ -18,7 +18,7 @@ class Pidlock(object):
             if os.path.exists('/proc/%s' % (old_pid,)):
                 locked = False
             else:
-                os.remove(file)
+                os.remove(file_)
         
         if locked:
             fp = open(file_, 'w')
